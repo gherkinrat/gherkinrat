@@ -11,7 +11,7 @@
 
 <h2>2. Pushing</h2>
 <p>Pushing is when you physically use your force to drag someone away from you. This is a foul because the victim can lose their balance and fall. Although pushing with shoulders is allowed, pushing with hands is not because it can create a larger force where with shoulders doesnt impact the victim as much.</p>
-
+<img src="haaland brother eww.jpg" Width="400+ Height="200">
 
 </body>
 </html>
