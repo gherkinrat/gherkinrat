@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Every Soccer Foul</h1>
 <img src="boot on soccer ball.jpg" Width="400" Height="200">
 
 </body>
