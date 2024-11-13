@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Every Soccer Foul</h1>
+<h1>Common Soccer Foul</h1>
 <img src="boot on soccer ball.jpg" Width="400" Height="200">
 
 <h2>1. Slide Tackling</h2>
@@ -20,6 +20,8 @@
 <h2>4. Holding an opponent</h2>
 <p>Holding an opponent can be helpful, except, its not allowed. Holding the opponents shirt, pants, leg if they fell or holding them to decrease their mobility is an offense in soccer. Players should not be holding or be held in soccer as it is an obvious offense and a clear foul.</p>
 <img src="holding uwu.jpg" Width="400" Height="200">
+
+<h3>Although there are way more soccer fouls 0</h3>
 
 </body>
 </html>
