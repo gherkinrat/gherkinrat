@@ -15,7 +15,7 @@
 
 <h2>3. Kicing a player</h2>
 <p>Kicing a player may not always be intentional, but it is still a foul. Even if its accidental and you're trying to get the ball you cannot physically kick a player. Some alternatives to getting the ball can be marking the players on the opposing team. You can get the ball any way except by physically injuring or hurting a player.</p>
-
+<img src="soccer-fouls.jpg" Width="400" Height="200">
 
 </body>
 </html>
