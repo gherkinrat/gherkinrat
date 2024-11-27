@@ -21,7 +21,7 @@
 <p>Holding an opponent can be helpful, except, its not allowed. Holding the opponents shirt, pants, leg if they fell or holding them to decrease their mobility is an offense in soccer. Players should not be holding or be held in soccer as it is an obvious offense and a clear foul.</p>
 <img src="holding uwu.jpg" Width="400" Height="200">
 
-<h3>Although there are way more soccer fouls 0</h3>
+<h3>Although there are way more soccer fouls, These common ones are used the most and important to know in order to play fairly with no penalties or free kick for the other team.</h3>
 
 </body>
 </html>
